@@ -1,5 +1,5 @@
 # DB_Build_Project
-Build DBMS that has functions like insert, delete, find with concurrency control.
+Build Database that can store data and can insert, delete, find with concurrency control.
 
 There are 2 parts for Disk_based_B+tree(final)
 
