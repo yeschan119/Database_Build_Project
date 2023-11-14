@@ -1,3 +1,4 @@
+!!! 학부 때 짠 코드(엉망 진창)... refactoring 언제 하지??
 # DB_Build_Project
 Build Database that can store data and can insert, delete, find with concurrency control.
 
