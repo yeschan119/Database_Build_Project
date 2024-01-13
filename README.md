@@ -1,6 +1,6 @@
 !!! 학부 때 짠 코드(엉망 진창)... refactoring 언제 하지??
 
-# Summary(DB Engine 부분에서 data level 설계 및 구현)
+# DB Engine 부분에서 data level 설계 및 구현
 + Index layer – buffer layer – disk layer 순서로 데이터의 I/O가 이루어지도록 설계
 + Index, buffer layer는 메모리 위에서 작동
 + Disk space layer는 system call을 이용해 disk I/O로 작동
