@@ -5,6 +5,8 @@
 + The Index layer and Buffer layer operate entirely in memory
 + The Disk space layer performs disk I/O via system calls
 
++ [한국어 🇰🇷](README.ko.md)
+
 # Project Diagram
 ![db_engine](https://github.com/yeschan119/Database_Build_Project/assets/83147205/2b062ec0-91de-4392-8f68-4844a1aca92f)
 
