@@ -1,4 +1,4 @@
-!!! 학부 시절에 작성한 코드입니다 (완전 엉망)… 도대체 언제 리팩토링할 수 있을까요?
+!!! 학부 시절에 작성한 코드 (완전 엉망)… 언제 리팩토링 하지?
 
 # DB Engine의 Data-Level 설계 및 구현
 + 데이터 I/O 흐름이 Index layer → Buffer layer → Disk layer 순서로 진행되도록 설계
